@@ -1,0 +1,17 @@
+.content1
+{
+    background-image:url("jk.jpg");
+    color:white;
+    word-spacing:1.5px;
+    background-color:rgb(96, 221, 200);
+    border: 2px solid rgb(253, 253, 253);
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-right:50px;
+    padding-left:50px;
+    margin:30px;
+}
+
+.pc{
+    background-image:url("n.jpg");
+}
